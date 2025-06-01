@@ -34,7 +34,7 @@ I am a forward-thinking civil and structural engineer passionate about integrati
 
 ## Contact
 
-- **Email:** [muhaiminul@iut-dhaka.edu](mailto:muhaiminul@iut-dhaka.edu)
+- **Email:** [muhaiminul@iut-dhaka.edu](muhaiminul@iut-dhaka.edu)
 - **LinkedIn:** [https://bd.linkedin.com/in/muhaiminul](https://bd.linkedin.com/in/muhaiminul)
 - **ResearchGate:** [https://www.researchgate.net/profile/S-M-Muhaiminul-Islam-2](https://www.researchgate.net/profile/S-M-Muhaiminul-Islam-2)
 
