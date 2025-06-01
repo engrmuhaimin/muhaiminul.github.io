@@ -11,8 +11,8 @@ I am a forward-thinking civil and structural engineer passionate about integrati
 
 ## Education
 
-- **Master of Engineering in Structural Engineering**, Islamic University of Technology (2018–2020)
-- **Bachelor of Science in Civil Engineering**, University of Asia Pacific (2012–2016)
+- **Master of Engineering in Structural Engineering**, Islamic University of Technology
+- **Bachelor of Science in Civil Engineering**, University of Asia Pacific
 
 ---
 
